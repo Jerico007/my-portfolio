@@ -4,7 +4,7 @@ import "./MainSection.css";
 
 const MainSection = ({heading , paragraph}) => {
   return (
-    <div id="main-section">
+    <div className="main-section">
       <h2>{heading}</h2>
       <p>{paragraph}
       </p>
