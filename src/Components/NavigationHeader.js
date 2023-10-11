@@ -1,6 +1,6 @@
 import react from "react";
 
-import "./NavigationHeader.css"
+
 const NavigationHeader = ()=>{
   return (<div id="nav">
     <h2>Jerico Dcosta</h2>

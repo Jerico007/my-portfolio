@@ -1,6 +1,6 @@
 import react from "react";
 
-import "./FotterSection.css"
+
 
 const FooterSection = () => {
   return (

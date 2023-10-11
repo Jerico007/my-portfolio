@@ -1,6 +1,6 @@
 import react from "react";
 
-import "./MainSection.css";
+
 
 const MainSection = ({heading , paragraph}) => {
   return (

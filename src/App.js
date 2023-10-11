@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./index.css";
 import Navigation from "./Components/NavigationHeader";
 import AboutMe from "./Components/AboutMe";
 import MainSection from "./Components/MainSection";
