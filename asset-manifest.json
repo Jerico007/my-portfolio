@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Jerico007/my-portfolio.git/static/css/main.799c1756.css",
+    "main.js": "/Jerico007/my-portfolio.git/static/js/main.7b51492e.js",
+    "static/media/cool-profile-picture-2we7xmn0737hqgtu.jpg": "/Jerico007/my-portfolio.git/static/media/cool-profile-picture-2we7xmn0737hqgtu.c103266b9be1bf4208f1.jpg",
+    "index.html": "/Jerico007/my-portfolio.git/index.html",
+    "main.799c1756.css.map": "/Jerico007/my-portfolio.git/static/css/main.799c1756.css.map",
+    "main.7b51492e.js.map": "/Jerico007/my-portfolio.git/static/js/main.7b51492e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799c1756.css",
+    "static/js/main.7b51492e.js"
+  ]
+}
