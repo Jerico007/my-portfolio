@@ -8,8 +8,8 @@ const NavigationHeader = ()=>{
         <li><a href="#">Home</a></li>
         <li><a href="#about-me">About</a></li>
         <li><a href="#footer-section">Contact</a></li>
-        <li><a href="#main-section">Skills</a></li>
-        <li><a href="#main-section">Qualification</a></li>
+        <li><a href="#main">Skills</a></li>
+        <li><a href="#main">Qualification</a></li>
     </ul>
   </div>);
 }
